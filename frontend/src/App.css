@@ -1,0 +1,87 @@
+.no-dec-link {
+  float: right;
+}
+.btn {
+  margin-top: 5px;
+}
+
+.submit-form {
+  width: 50%;
+}
+
+.mt-3 {
+  text-align: -webkit-center;
+}
+
+label {
+  float: left;
+}
+
+.btn-login {
+  float: left;
+}
+.input-group {
+  margin-top: 4px;
+}
+
+.btn-outline-secondary { 
+  margin-left : 4px;
+  margin-bottom:4px;
+}
+.form-control, .form-select {
+  border-radius: 4px!important;
+}
+.row {
+  justify-content: center;
+}
+.top-margin { 
+  margin-top:10px;
+}
+.logo {
+  width:3%;
+  transform: scaleX(-1);
+  margin-top:-5px;
+}
+
+.icon-inside {
+  position:relative;
+}
+.icon-inside i {
+  position:absolute;
+  right:0px;
+  top:15px;
+  padding:10px 10px;
+  opacity : 0.80;
+}
+
+ul {
+  display: inline-flex;
+  list-style-type: none;
+}
+ul a {
+  font-size:18px;
+  align-self: center;
+  margin-left: 4px;
+  margin-right:4px;
+}
+li {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+.pagination-diy li:hover:not(.active) {
+  background-color: #ddd;
+} 
+div.pagination-diy a {
+ color:black;
+ text-decoration: none;
+}
+.pagination-diy {
+  margin-top:10px;
+  display: inline-block!important;
+}
+.selected {
+  background-color: #198754;
+  color: white;
+}
